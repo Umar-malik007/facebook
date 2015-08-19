@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails facebook: development" uuid="5078fc7d-cc2d-4edc-83bf-c8ba81732953">
+      <user-name>root</user-name>
+      <user-password>dfe2dfcbdfc9dfc1dfcfdfd8df9adf9adf9d</user-password>
+    </data-source>
+    <data-source name="Rails facebook: test" uuid="b69e094b-1e8e-467f-bbb8-dfb4f46fc0a2">
+      <user-name>root</user-name>
+      <user-password>dfe2dfcbdfc9dfc1dfcfdfd8df9adf9adf9d</user-password>
+    </data-source>
+    <data-source name="Rails facebook: production" uuid="52901ae0-7972-4839-b659-1a42f3b6bfff">
+      <user-name>facebook</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfecdfebdfe9dfefdfe8dfe5dfe5dfe1dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
