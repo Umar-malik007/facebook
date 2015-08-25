@@ -3,6 +3,8 @@ class User < ActiveRecord::Base
   # :confirmable, :lockable, :timeoutable and :omniauthable
 
   has_many :statuses
+  has_many :user_firendships
+  has_many :friends, through: :user_firendships
 
   validates :first_name, presence: true
   validates :last_name, presence: true
